@@ -25,7 +25,7 @@ nav {
 }
 
 .container {
-  max-width: 1300px;
+  max-width: 1440px;
   margin: auto;
   padding-left: 10px;
   padding-right: 10px;
@@ -37,10 +37,10 @@ nav {
   justify-content: space-around;
 }
 .row img {
-  max-width: 1256px;
+  max-width: 1440px;
 }
 .row-2 {
-  max-width: 1250px;
+  max-width: 1440px;
   margin: auto;
   padding-left: 10%;
   padding-right: 10%;
@@ -75,7 +75,7 @@ h2 {
 }
 
 .row-3 {
-  max-width: 1600px;
+  max-width: 1440px;
   margin: auto;
   padding-left: 35%;
   padding-right: 35%;
@@ -96,54 +96,12 @@ h2 {
   margin: 1.5%;
 }
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 30%;
+h3 {
+  color: #0a3641;
   margin: auto;
   text-align: center;
-  font-family: arial;
-}
-
-.price {
-  color: grey;
-  font-size: 22px;
-}
-
-.card button {
-  border: none;
-  outline: 0;
-  padding: 12px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-}
-
-.card button:hover {
-  opacity: 0.7;
-}
-
-.card-1 {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 30%;
-  margin: auto;
-  text-align: center;
-  font-family: arial;
-}
-
-.card-1 button {
-  border: none;
-  outline: 0;
-  padding: 12px;
-  color: white;
-  background-color: rgb(247, 23, 23);
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-}
-.row-4 {
-  float: left;
+  border
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  padding-top: 2%;
 }
