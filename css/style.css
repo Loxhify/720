@@ -21,7 +21,9 @@ nav {
   color: #0a3641;
   padding: 60px;
   font-family: "Montserrat";
-  font-weight: 800;
+  font-weight: 900;
+}
+.top-nav a{
 }
 
 .container {
